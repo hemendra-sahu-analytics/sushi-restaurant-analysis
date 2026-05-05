@@ -32,10 +32,10 @@ Data-driven analysis to identify high-revenue, low-margin items and optimize men
 ### 📑 Table of Contents
 * [Overview](#-overview)
 * [Problem Statement](#-problem-statement)
+* [Business Insights & Strategic Recommendations](#-business-insights--strategic-recommendations)
 * [Dataset](#-dataset)
 * [Tools and Technologies](#-tools-and-technologies)
 * [Methods](#%EF%B8%8F-methods)
-* [Key Insights](#-key-insights)
 * [Dashboard](#-dashboard)
 * [Final Thoughts](#-final-thoughts)
 * [Future Work](#-future-work)
@@ -60,21 +60,42 @@ Using Python for analysis and Power BI for visualization, the project identifies
 
 # 🚀 Sales Optimization
 
-- Upsell Strategy: Increase average order value by 8–10% by promoting high-margin add-ons (Drinks, Sides). [Data: *These categories hold the highest margin % but currently represent low sales volume*].
+- **Upsell Strategy**: Increase average order value by 8–10% by promoting high-margin add-ons (Drinks, Sides). [**Data:** *These categories hold the highest margin % but currently represent low sales volume*].
+ 
 ![Upsell Strategy](./images/category_performance.png)
 
-- Dine-In Focus: Prioritize dine-in experience/offers to boost revenue contribution by 5%+. [Data: *This channel consistently outperforms Takeaway and Delivery in both volume and profit*].
+- **Dine-In Focus**: Prioritize dine-in experience/offers to boost revenue contribution by 5%+. [**Data:** *This channel consistently outperforms Takeaway and Delivery in both volume and profit*].
+  
 ![Dine-In Focus](./images/channel_performance.png)  
 
  # 🍣 Menu Engineering
  
-- Dynamic Pricing: Adjust pricing for "Spicy Tuna" and "California Rolls" by 5–7%. [Data: *High demand and high revenue (> $1M) suggest a low price-sensitivity among customers*].
+- **Dynamic Pricing**: Adjust pricing for "Spicy Tuna" and "California Rolls" by 5–7%. [**Data:** *High demand and high revenue (> $1M) suggest a low price-sensitivity among customers*].
+- **Smart Bundling**: Launch "Combo Deals" (Main + Drink) to increase side-item sales by 10%. [**Data:** *Leveraging the 80–90% margin on drinks to offset lower margins on premium rolls*].
 
-- Smart Bundling: Launch "Combo Deals" (Main + Drink) to increase side-item sales by 10%. [Data: *Leveraging the 80–90% margin on drinks to offset lower margins on premium rolls*].
+  ![Menu Engineering](./images/pricing_strategy.png)
+
+
+ # 📈 PROFIT MIX OPTIMIZATION
+- **Strategic Balancing**: Optimize product mix to increase overall profit margin by 3–5% by balancing high-revenue/low-margin items with high-margin/low-volume items.
+
+  ![Strategic Balancing](./images/strategic_insights.png)
+
+- **Portfolio Shift**: Shift sales contribution by 5–7% towards high-margin categories (Drinks, Sides) to improve profitability without impacting total demand.
+
+  ![Portfolio Shift](./images/high_margin.png)
+
+- **Margin Protection**: Reduce dependency on low-margin/high-volume items by 5% through gradual pricing adjustments and promoting better-margin alternatives.
+
+- **Revenue Alignment**: Align promotion strategies across categories to maximize profit per order, ensuring a balanced mix of volume + margin contributors.
+
+
 
 # 👥 Customer Retention
 
-- Loyalty Integration: Increase repeat customer revenue share by 5–8% via a tiered loyalty program. [Data: *Existing regulars already drive 50% of revenue; a small increase in frequency will significantly impact the bottom line*].  
+- **Loyalty Integration**: Increase repeat customer revenue share by 5–8% via a tiered loyalty program. [**Data:** *Existing regulars already drive 50% of revenue; a small increase in frequency will significantly impact the bottom line*].
+
+![Customer Retention](./images/customer_insights.png)  
 
 ---
 
@@ -103,26 +124,6 @@ Using Python for analysis and Power BI for visualization, the project identifies
 * Aggregations (Item, Category, Channel, Segment)
 * Trend Analysis (Year-wise performance)
 * Visualization & Dashboard Building
-
----
-
-### 🔥 Key Insights
-
-#### 📊 Insight 1
-High revenue items (Rolls, Nigiri) generate maximum sales but have relatively lower margins → pricing opportunity.
-
-
-#### 📊 Insight 2
-Drinks and side items have highest margins but lower demand → strong upselling potential.
-![Insight 2](./images/high_margin.png)
-
-#### 📊 Insight 3
-Revenue ≠ Profit → some high-selling items are not the most profitable.
-![Insight 3](./images/strategic_insights.png)
-
-#### 📊 Insight 4
-Customer loyalty drives revenue (regular customers contribute ~50%), but margins remain similar across segments.
-![Insight 4](./images/customer_insights.png)
 
 ---
 
