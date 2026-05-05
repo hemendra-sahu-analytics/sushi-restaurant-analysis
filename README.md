@@ -1,6 +1,6 @@
 # 📊 Menu Pricing Optimization using Data Analysis
 
-![Title](./image.png)
+![Menu Pricing Optimization using Data Analysis](./images/sushi_restaurant.png)
 
 ### 🚀 Brief One Line Summary
 Data-driven analysis to identify high-revenue, low-margin items and optimize menu pricing for maximum profitability.
