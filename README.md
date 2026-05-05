@@ -41,4 +41,4 @@ Data-driven analysis to identify high-revenue, low-margin items and optimize men
 1) ## 📊 Insight 1
 High revenue items (Rolls, Nigiri) generate maximum sales but have relatively lower margins → pricing opportunity.
 
-![Category Performance](./Category Performance.png)
+![Category Performance](./category_performance.png)
