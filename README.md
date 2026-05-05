@@ -60,7 +60,7 @@ Using Python for analysis and Power BI for visualization, the project identifies
 * **Time Period**: 2015–2024
 * **Columns**: Item, Category, Price, Cost, Revenue, Profit, Margin %, Channel, Customer Segment
 
-![Title](./image.png)
+![Dataset](./images/dataset_overview.png)
 
 ---
 
@@ -87,19 +87,19 @@ Using Python for analysis and Power BI for visualization, the project identifies
 
 #### 📊 Insight 1
 High revenue items (Rolls, Nigiri) generate maximum sales but have relatively lower margins → pricing opportunity.
-![Title](./image.png)
+![Insight 1](./images/category_performance.png)
 
 #### 📊 Insight 2
 Drinks and side items have highest margins but lower demand → strong upselling potential.
-![Title](./image.png)
+![Insight 2](./images/high_margin.png)
 
 #### 📊 Insight 3
 Revenue ≠ Profit → some high-selling items are not the most profitable.
-![Title](./image.png)
+![Insight 3](./images/strategic_insights.png)
 
 #### 📊 Insight 4
 Customer loyalty drives revenue (regular customers contribute ~50%), but margins remain similar across segments.
-![Title](./image.png)
+![Insight 4](./images/customer_insights.png)
 
 ---
 
@@ -110,7 +110,7 @@ Customer loyalty drives revenue (regular customers contribute ~50%), but margins
 * **Pricing Optimization Matrix**: (Revenue vs Margin)
 * **Filters**: (Category, Channel, Year)
 
-![Title](./image.png)
+![Dashboard](./images/dashboard_ss.PNG)
 
 ---
 
@@ -120,7 +120,7 @@ Customer loyalty drives revenue (regular customers contribute ~50%), but margins
 * High-margin items are underutilized
 * Small pricing adjustments can significantly increase profit
 
-![Title](./image.png)
+![Final Thoughts](./images/final_conclusion.png)
 
 **👉 Conclusion:**  
 A data-driven pricing strategy can unlock hidden profitability and improve overall business performance.
@@ -139,6 +139,6 @@ A data-driven pricing strategy can unlock hidden profitability and improve overa
 *Aspiring Data Analyst*
 
 * **💼 Skills**: Python | Power BI | SQL | Data Analysis
-* **📧 Email**: your-email@example.com
-* **🔗 LinkedIn**: [your-linkedin-link]
-* **🔗 GitHub**: [your-github-link]
+* **📧 Email**: hemendrasahu1991@gmail.com
+* **🔗 LinkedIn**: [www.linkedin.com/in/hemendra-kumar-79561123a]
+
