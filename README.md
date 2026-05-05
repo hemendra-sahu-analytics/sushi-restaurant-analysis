@@ -1,4 +1,5 @@
 # 📊 sushi_restaurant_menu_pricing_optimization
+![Title](./sushi_restaurant_menu_pricing_optimization.png)
 ## 🚀 Summary
 Data-driven analysis to identify high-revenue, low-margin items and optimize menu pricing for maximum profitability.
 ### 📑 Table of Contents
