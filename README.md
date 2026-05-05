@@ -67,7 +67,6 @@ Using Python for analysis and Power BI for visualization, the project identifies
 ### 🛠 Tools and Technologies
 * **Python** (Pandas, Data Analysis)
 * **Power BI** (Dashboard & Visualization)
-* **SQL** (Data Handling)
 * **Generative AI** (Insight generation support)
 * **Prompt Engineering**
 
