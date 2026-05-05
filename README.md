@@ -16,9 +16,12 @@ Data-driven analysis to identify high-revenue, low-margin items and optimize men
     - category_performance.png
     - channel_performance.png
     - customer_insights.png
-    - dashboard.png
+    - dashboard_ss.png
+    - dataset_overview.png
     - final_conclusion.png
+    - high_margin.png
     - strategic_insights.png
+    - sushi_restaurant.png
   - python_script/
     - sushi_menu_price_optimization.ipynb
   - README.md
