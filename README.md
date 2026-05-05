@@ -67,7 +67,7 @@ Using Python for analysis and Power BI for visualization, the project identifies
 ### 🛠 Tools and Technologies
 * **Python** (Pandas, Data Analysis)
 * **Power BI** (Dashboard & Visualization)
-* **Generative AI** (Insight generation support)
+* **Generative AI** (For Analysis Support, Insight generation support)
 * **Prompt Engineering**
 
 ---
@@ -135,7 +135,7 @@ A data-driven pricing strategy can unlock hidden profitability and improve overa
 <a name="author-contact"></a>
 ### 👨‍💻 Author & Contact
 **Hemendra Kumar**  
-*Aspiring Data Analyst*
+*Aspiring Data Analyst / Business Analyst*
 
 * **💼 Skills**: Python | Power BI | SQL | Data Analysis
 * **📧 Email**: hemendrasahu1991@gmail.com
