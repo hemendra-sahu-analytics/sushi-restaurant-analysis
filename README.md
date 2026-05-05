@@ -31,12 +31,12 @@ Data-driven analysis to identify high-revenue, low-margin items and optimize men
 * [Problem Statement](#-problem-statement)
 * [Dataset](#-dataset)
 * [Tools and Technologies](#-tools-and-technologies)
-* [Methods](#-methods)
+* [Methods](#%EF%B8%8F-methods)
 * [Key Insights](#-key-insights)
 * [Dashboard](#-dashboard)
 * [Final Thoughts](#-final-thoughts)
 * [Future Work](#-future-work)
-* [Author & Contact](#-author--contact)
+* [Author & Contact](#author-contact)
 
 ---
 
@@ -133,6 +133,7 @@ A data-driven pricing strategy can unlock hidden profitability and improve overa
 
 ---
 
+<a name="author-contact"></a>
 ### 👨‍💻 Author & Contact
 **Hemendra Kumar**  
 *Aspiring Data Analyst*
