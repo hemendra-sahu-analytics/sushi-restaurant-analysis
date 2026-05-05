@@ -1,4 +1,4 @@
-# 📊 Menu Pricing Optimization using Data Analysis
+# 📊 Sushi Restaurant Menu Pricing Optimization 
 
 ![Menu Pricing Optimization using Data Analysis](./images/sushi_restaurant.png)
 
