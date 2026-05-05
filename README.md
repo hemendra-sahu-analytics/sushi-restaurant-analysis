@@ -7,6 +7,24 @@ Data-driven analysis to identify high-revenue, low-margin items and optimize men
 
 ---
 
+## 📁 Project Structure
+
+- sushi-restaurant-analysis/
+  - dashboard/
+    - dashboard.pbix
+  - images/
+    - category_performance.png
+    - channel_performance.png
+    - customer_insights.png
+    - dashboard.png
+    - final_conclusion.png
+    - strategic_insights.png
+  - python_script/
+    - sushi_menu_price_optimization.ipynb
+  - README.md
+
+---
+
 
 ### 📑 Table of Contents
 * [Overview](#-overview)
