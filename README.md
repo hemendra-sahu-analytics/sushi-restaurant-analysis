@@ -128,6 +128,9 @@ Using Python for analysis and Power BI for visualization, the project identifies
 ---
 
 ### 📊 Dashboard
+
+Due to Power BI service access limitations, the dashboard is presented through high-quality screenshots below.
+
 **Interactive Power BI dashboard includes:**
 * **KPI Cards**: (Revenue, Profit, Margin, Quantity)
 * **Top 10 Items**: (Revenue, Profit, Margin)
