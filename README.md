@@ -54,6 +54,27 @@ Using Python for analysis and Power BI for visualization, the project identifies
 * Understand impact of cost and inflation on pricing
 * Detect underpriced high-demand products
 * Enable data-driven pricing decisions
+---
+
+### 💡 Business Insights & Strategic Recommendations
+
+# 🚀 Sales Optimization
+
+- Upsell Strategy: Increase average order value by 8–10% by promoting high-margin add-ons (Drinks, Sides). [Data: *These categories hold the highest margin % but currently represent low sales volume*].
+![Upsell Strategy](./images/category_performance.png)
+
+- Dine-In Focus: Prioritize dine-in experience/offers to boost revenue contribution by 5%+. [Data: *This channel consistently outperforms Takeaway and Delivery in both volume and profit*].
+![Dine-In Focus](./images/channel_performance.png)  
+
+ # 🍣 Menu Engineering
+ 
+- Dynamic Pricing: Adjust pricing for "Spicy Tuna" and "California Rolls" by 5–7%. [Data: *High demand and high revenue (> $1M) suggest a low price-sensitivity among customers*].
+
+- Smart Bundling: Launch "Combo Deals" (Main + Drink) to increase side-item sales by 10%. [Data: *Leveraging the 80–90% margin on drinks to offset lower margins on premium rolls*].
+
+# 👥 Customer Retention
+
+- Loyalty Integration: Increase repeat customer revenue share by 5–8% via a tiered loyalty program. [Data: *Existing regulars already drive 50% of revenue; a small increase in frequency will significantly impact the bottom line*].  
 
 ---
 
@@ -89,7 +110,7 @@ Using Python for analysis and Power BI for visualization, the project identifies
 
 #### 📊 Insight 1
 High revenue items (Rolls, Nigiri) generate maximum sales but have relatively lower margins → pricing opportunity.
-![Insight 1](./images/category_performance.png)
+
 
 #### 📊 Insight 2
 Drinks and side items have highest margins but lower demand → strong upselling potential.
