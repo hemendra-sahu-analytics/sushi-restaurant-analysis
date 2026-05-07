@@ -137,7 +137,9 @@ Due to Power BI service access limitations, the dashboard is presented through h
 * **Pricing Optimization Matrix**: (Revenue vs Margin)
 * **Filters**: (Category, Channel, Year)
 
-![Dashboard](./images/dashboard_ss.PNG)
+![Dashboard](./images/dasboard_1.PNG)
+
+![Dashboard](./images/dashboard_2.PNG)
 
 ---
 
